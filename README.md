@@ -6,9 +6,9 @@
 
 ## Why This Exists
 
-After years of working at the intersection of IT service rollouts and end-user experience, I kept running into the same problem: adoption teams had data scattered across spreadsheets, email threads, and tribal knowledge. Nobody had a single, honest view of where adoption was breaking down — by service, by user segment, or by channel.
+After years of working at the intersection of IT service rollouts and end-user experience, I kept running into the same problem: adoption teams had data scattered across spreadsheets, email threads, and tribal knowledge. Nobody had a single, honest view of where adoption was breaking down by service, by user segment, or by channel.
 
-ServicePulse is the tool I kept wishing existed. It gives Adoption Leads, Service Owners, and IT change teams a unified intelligence layer across every service they're rolling out — in real time.
+ServicePulse is the tool I kept wishing existed. It gives Adoption Leads, Service Owners, and IT change teams a unified intelligence layer across every service they're rolling out in real time.
 
 ---
 
